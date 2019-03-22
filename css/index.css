@@ -292,6 +292,15 @@ footer nav a {
     border: 1px solid #ccc;
     border-radius: 4px;
   }
+
+textarea {
+    height: 150px;
+    margin: 8px 0;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
  input[type=submit] {
         width: 100%;
         background-color: orangered;
