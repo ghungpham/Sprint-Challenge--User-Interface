@@ -115,14 +115,14 @@ header nav a:last-child{
 .about-content {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin-bottom: 20px;
     
 }
 .about-content .text-container {
     width: 48%;
     padding: 0 1%;
-    padding-bottom: 15px;
+    padding: 0px 10px 10px 10px;
     margin-bottom: 30px;
     border-bottom: 1px dashed black;
 }
